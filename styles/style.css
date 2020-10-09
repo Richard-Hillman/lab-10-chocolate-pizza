@@ -54,6 +54,29 @@ footer {
 
 /* CLASSES------------------------------------------------------------------------------------------------------------------------------------------- */
 
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify { 
+    text-align: justify;
+}
+
+.block {
+    display: block;
+}
+
+.inblock {
+    display: inline-block;
+}
 
 .gutter-right {
     margin-right: 20px;
