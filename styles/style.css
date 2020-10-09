@@ -94,3 +94,7 @@ footer {
     font-family: 'Patrick Hand', cursive;
     font-size: 16px;
 }
+
+.header-line {
+    border-image: url("/assets/hr-img.png") 0 0 13 fill repeat;
+}
