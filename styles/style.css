@@ -98,3 +98,20 @@ footer {
 .header-line {
     border-image: url("/assets/hr-img.png") 0 0 13 fill repeat;
 }
+
+.img {
+    width: 80%;
+}
+
+.delicious > h1 { 
+    font-size: 30px;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+.delicious > h2 {
+    font-size: 10px;
+    margin: 0;
+    margin-top: -10px;
+    padding-top: 0;
+}
